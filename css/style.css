@@ -8,3 +8,7 @@ body {
     flex-grow: 1;
   }
   
+  #logoPokemon
+  {
+    width: 600px;
+  }
