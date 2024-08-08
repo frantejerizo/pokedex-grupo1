@@ -7,4 +7,10 @@ body {
   main {
     flex-grow: 1;
   }
+
+  
+.imagenCarousel{
+  height: 400px;
+  object-fit: cover;
+}
   
