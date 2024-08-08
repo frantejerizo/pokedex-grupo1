@@ -8,3 +8,19 @@ body {
     flex-grow: 1;
   }
   
+
+  .tiposdepokemon{
+    background: green;
+    color: white;
+    border-radius: 20px ;
+    width: 15%;
+  }
+  .tiposdepokemon2{
+    background: purple;
+    color: white;
+    border-radius: 20px ;
+    width: 20%;
+  }
+  .cardtam{
+    width: 30%;
+  }
