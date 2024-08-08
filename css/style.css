@@ -12,3 +12,10 @@ body {
   {
     width: 600px;
   }
+
+  
+.imagenCarousel{
+  height: 400px;
+  object-fit: cover;
+}
+  
